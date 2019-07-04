@@ -1,0 +1,10 @@
+resolve  [rɪˈzɑːlv] 
+
+
+
+
+
+
+To resolve the DNS name to an IP add
+
+
