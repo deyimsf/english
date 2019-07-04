@@ -1,6 +1,5 @@
 resolve  [rɪˈzɑːlv] 
-
-
+except  [ɪkˈsɛpt]
 
 
 
@@ -8,3 +7,13 @@ resolve  [rɪˈzɑːlv]
 To resolve the DNS name to an IP add
 
 
+
+I wouldn't have accepted anything except a job in Europe
+
+
+
+Everyone was late, except for Richard
+
+
+
+He hadn't eaten a thing except for one forkful of salad
